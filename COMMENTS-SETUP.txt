@@ -1,0 +1,16 @@
+THE VESPERQUILL ARCHIVE — READER COMMENTS SETUP
+
+The chapter pages already include the DO NOT REPOST notice and a comments section.
+Comments are NOT live until you configure Giscus. This is normal.
+
+1. On GitHub, open your repository Settings > General > Features and enable Discussions.
+2. Visit https://github.com/apps/giscus and install the Giscus app for the repository.
+3. Visit https://giscus.app/ and enter the repository name.
+4. Choose the Discussions category (e.g., General), and mapping: Specific discussion term = pathname / Discussion title contains page pathname (Giscus "pathname" mapping).
+5. Copy repo, repo ID, category, and category ID from the generated Giscus snippet into comments-config.js.
+6. Upload comments-config.js and the other files to GitHub, keeping the chapters/ folder structure.
+7. Test each chapter: readers need a GitHub account to comment. Each chapter has its own discussion based on pathname.
+
+PRIVACY NOTE: GitHub Discussions will publicly reveal the repository hosting the comments, which may link to your GitHub identity. To separate from your SNS brand, use a separately named GitHub account/repository before enabling comments.
+
+COPYRIGHT NOTE: A do-not-repost notice does not grant publication rights to underlying copyrighted material.
