@@ -7,5 +7,6 @@ window.CHAPTERS = [
 { number: 6, title: 'Chapter 6', description: 'A lonely princess, a helpless little bird, and a fateful encounter in the rain.', tags: ['Talia', 'Varkas', 'Sierkhan', 'first meeting'], href: 'chapters/chapter-6.html', status: 'Read chapter' },
 { number: 7, title: 'Chapter 7', description: 'A rescued bird, silver crowns, and a meeting beneath the rain.', tags: ['Talia', 'Varkas', 'first meeting', 'childhood'], href: 'chapters/chapter-7.html', status: 'Read chapter' },
 { number: 8, title: 'Chapter 8', description: 'A familiar face on the training grounds, a mother’s unsettling promise, and a lonely princess determined to meet him again.', tags: ['Talia', 'Varkas', 'Sierkhan', 'Senevia'], href: 'chapters/chapter-8.html', status: 'Read chapter' },
-{ number: 9, title: 'Chapter 9', description: 'A hopeful search, a heartbreaking rejection, and a cruel encounter in the palace gardens.', tags: ['Talia', 'Varkas', 'Ayla', 'Gareth', 'childhood'], href: 'chapters/chapter-9.html', status: 'Read chapter' }
+{ number: 9, title: 'Chapter 9', description: 'A hopeful search, a heartbreaking rejection, and a cruel encounter in the palace gardens.', tags: ['Talia', 'Varkas', 'Ayla', 'Gareth', 'childhood'], href: 'chapters/chapter-9.html', status: 'Read chapter' },
+{ number: 10, title: 'Chapter 10', description: 'A lonely princess, the truth behind the palace’s hatred, and a cruel betrayal disguised as kindness.', tags: ['Talia', 'Varkas', 'Bernadette', 'Senevia', 'childhood'], href: 'chapters/chapter-10.html', status: 'Read chapter' }
 ];
