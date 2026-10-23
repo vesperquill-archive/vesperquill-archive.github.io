@@ -5,5 +5,6 @@ window.CHAPTERS = [
 { number: 4, title: 'Chapter 4', description: 'A royal celebration, a bitter confrontation, and a ruined gown.', tags: ['Talia', 'Aila', 'Gares', 'Varkas', 'banquet'], href: 'chapters/chapter-4.html', status: 'Read chapter' },
 { number: 5, title: 'Chapter 5', description: 'A cruel confrontation, a royal warning, and memories beneath the rain.', tags: ['Talia', 'Varkas', 'Aila', 'Gares', 'pilgrimage'], href: 'chapters/chapter-5.html', status: 'Read chapter' },
 { number: 6, title: 'Chapter 6', description: 'A lonely princess, a helpless little bird, and a fateful encounter in the rain.', tags: ['Talia', 'Varkas', 'Sierkhan', 'first meeting'], href: 'chapters/chapter-6.html', status: 'Read chapter' },
-{ number: 7, title: 'Chapter 7', description: 'A rescued bird, silver crowns, and a meeting beneath the rain.', tags: ['Talia', 'Varkas', 'first meeting', 'childhood'], href: 'chapters/chapter-7.html', status: 'Read chapter' }
+{ number: 7, title: 'Chapter 7', description: 'A rescued bird, silver crowns, and a meeting beneath the rain.', tags: ['Talia', 'Varkas', 'first meeting', 'childhood'], href: 'chapters/chapter-7.html', status: 'Read chapter' },
+{ number: 8, title: 'Chapter 8', description: 'A familiar face on the training grounds, a mother’s unsettling promise, and a lonely princess determined to meet him again.', tags: ['Talia', 'Varkas', 'Sierkhan', 'Senevia'], href: 'chapters/chapter-8.html', status: 'Read chapter' }
 ];
