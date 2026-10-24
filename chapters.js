@@ -12,5 +12,6 @@ window.CHAPTERS = [
 { number: 11, title: 'Chapter 11', description: 'Talia turns to her mother for protection, only to receive a heartbreaking lesson about power and weakness.', tags: ['Talia', 'Senevia', 'childhood'], href: 'chapters/chapter-11.html', status: 'Read chapter' },
 { number: 12, title: 'Chapter 12', description: 'Talia finally takes a stand against the servants who tormented her.', tags: ['Talia', 'Turning Point', 'Imperial Palace'], href: 'chapters/chapter-12.html', status: 'Read chapter' },
 { number: 13, title: 'Chapter 13', description: 'Talia earns the servants’ fear, and Senevia presents her with an unexpected protector: Varkas Raedgo Sierkhan.', tags: ['Talia', 'Varkas', 'Senevia', 'Ayla'], href: 'chapters/chapter-13.html', status: 'Read chapter' },
-{ number: 14, title: 'Chapter 14', description: 'Ayla reflects on Varkas’s painful past and offers her fiancé a handmade gift before their journey.', tags: ['Ayla', 'Varkas', 'Imperial Palace'], href: 'chapters/chapter-14.html', status: 'Read chapter' }
+{ number: 14, title: 'Chapter 14', description: 'Ayla reflects on Varkas’s painful past and offers her fiancé a handmade gift before their journey.', tags: ['Ayla', 'Varkas', 'Imperial Palace'], href: 'chapters/chapter-14.html', status: 'Read chapter' },
+{ number: 15, title: 'Chapter 15', description: 'Ayla accompanies Varkas to an imperial audience, where the Emperor announces an unexpected addition to the pilgrimage.', tags: ['Ayla', 'Varkas', 'Talia', 'Pilgrimage'], href: 'chapters/chapter-15.html', status: 'Read chapter' }
 ];
