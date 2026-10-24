@@ -10,5 +10,6 @@ window.CHAPTERS = [
 { number: 9, title: 'Chapter 9', description: 'A hopeful search, a heartbreaking rejection, and a cruel encounter in the palace gardens.', tags: ['Talia', 'Varkas', 'Ayla', 'Gareth', 'childhood'], href: 'chapters/chapter-9.html', status: 'Read chapter' },
 { number: 10, title: 'Chapter 10', description: 'A lonely princess, the truth behind the palace’s hatred, and a cruel betrayal disguised as kindness.', tags: ['Talia', 'Varkas', 'Bernadette', 'Senevia', 'childhood'], href: 'chapters/chapter-10.html', status: 'Read chapter' },
 { number: 11, title: 'Chapter 11', description: 'Talia turns to her mother for protection, only to receive a heartbreaking lesson about power and weakness.', tags: ['Talia', 'Senevia', 'childhood'], href: 'chapters/chapter-11.html', status: 'Read chapter' },
-{ number: 12, title: 'Chapter 12', description: 'Talia finally takes a stand against the servants who tormented her.', tags: ['Talia', 'Turning Point', 'Imperial Palace'], href: 'chapters/chapter-12.html', status: 'Read chapter' }
+{ number: 12, title: 'Chapter 12', description: 'Talia finally takes a stand against the servants who tormented her.', tags: ['Talia', 'Turning Point', 'Imperial Palace'], href: 'chapters/chapter-12.html', status: 'Read chapter' },
+{ number: 13, title: 'Chapter 13', description: 'Talia earns the servants’ fear, and Senevia presents her with an unexpected protector: Varkas Raedgo Sierkhan.', tags: ['Talia', 'Varkas', 'Senevia', 'Ayla'], href: 'chapters/chapter-13.html', status: 'Read chapter' }
 ];
