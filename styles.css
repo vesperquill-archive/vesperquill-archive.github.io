@@ -13,3 +13,44 @@
 .chapter-comments h2{font:normal 1.55rem Georgia,serif;color:#70445a;margin:0 0 .5rem}
 .chapter-comments p{color:#705f67;line-height:1.6}
 .comments-setup{font-size:.95rem;background:#fff2f4;border-radius:8px;padding:.9rem 1rem}
+
+/* Pink chapter navigation tabs */
+
+.chapter-tabs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 24px 0 30px;
+}
+
+.chapter-tab {
+  background: #fff8fa;
+  color: #87566b;
+  border: 1px solid #e8cdd5;
+  border-radius: 30px;
+  padding: 14px 10px;
+  font: 600 13px 'DM Sans', sans-serif;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.chapter-tab:hover {
+  background: #f7e4eb;
+}
+
+.chapter-tab.active {
+  background: #b9798b;
+  color: white;
+  border-color: #b9798b;
+}
+
+.chapter-tab:focus-visible {
+  outline: 3px solid #87566b;
+  outline-offset: 3px;
+}
+
+@media (max-width: 700px) {
+  .chapter-tabs {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
