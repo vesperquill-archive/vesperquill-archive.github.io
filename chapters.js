@@ -59,7 +59,15 @@ window.CHAPTERS = [
 { number: 58, title: 'Chapter 58', description: 'Despite her painful injuries, Talia is forced to prepare for an audience with the Emperor. Upon arriving at the Main Palace, an unexpected sight catches her attention.', tags: ['Talia', 'Senevier', 'Trania'], href: 'chapters/chapter-58.html', status: 'Read chapter' },
 { number: 59, title: 'Chapter 59', description: 'Gareth cruelly mocks Talia over her injuries, provoking a violent confrontation. Varkas intervenes and carries her before the Emperor.', tags: ['Talia', 'Varkas', 'Gareth'], href: 'chapters/chapter-59.html', status: 'Read chapter' },
 { number: 60, title: 'Chapter 60', description: 'The Emperor orders Varkas to break his engagement to Ayla and marry Talia instead. As Varkas accepts, Talia struggles with an impossible decision.', tags: ['Talia', 'Varkas', 'Senevier'], href: 'chapters/chapter-60.html', status: 'Read chapter' },
-{
+  {
+    number: 61,
+    title: 'Chapter 61',
+    description: 'Palace rumours spread as Ayla visits Talia at the Separate Palace.',
+    tags: ['Talia', 'Ayla', 'Marisen', 'Palace'],
+    href: 'chapters/chapter-61.html',
+    status: 'Read chapter'
+  },
+  {
   number: 321,
   title: 'Chapter 321',
   description: 'Khan secretly prepares everything Talia needs to escape Raedgo Castle and leads her toward freedom.',
