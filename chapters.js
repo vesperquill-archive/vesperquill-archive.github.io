@@ -67,6 +67,14 @@ window.CHAPTERS = [
     href: 'chapters/chapter-61.html',
     status: 'Read chapter'
   },
+ {
+  number: 62,
+  title: 'Chapter 62',
+  description: 'Ayla confronts Talia over her marriage to Varkas, and their bitter rivalry reaches a breaking point.',
+  tags: ['Talia', 'Ayla', 'Varkas', 'Confrontation'],
+  href: 'chapters/chapter-62.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
