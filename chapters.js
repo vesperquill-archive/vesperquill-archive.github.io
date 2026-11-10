@@ -90,5 +90,12 @@ window.CHAPTERS = [
   tags: ['Talia', 'Khan', 'Escape', 'Freedom'],
   href: 'chapters/chapter-321.html',
   status: 'Read chapter'
+},
+{
+  number: 322,
+  title: 'Chapter 322',
+  description: 'Khan leads Talia toward freedom, but her heart struggles to leave Varkas behind.',
+  tags: ['Talia', 'Khan', 'Varkas', 'Escape'],
+  href: 'chapters/chapter-322.html',
+  status: 'Read chapter'
 }
-];
