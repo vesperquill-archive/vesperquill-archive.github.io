@@ -75,6 +75,14 @@ window.CHAPTERS = [
   href: 'chapters/chapter-62.html',
   status: 'Read chapter'
 },
+{
+  number: 63,
+  title: 'Chapter 63',
+  description: 'After Ayla’s visit, Talia seeks out Varkas and makes a life-changing decision.',
+  tags: ['Talia', 'Varkas', 'Marriage', 'Palace'],
+  href: 'chapters/chapter-63.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
