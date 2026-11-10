@@ -99,3 +99,4 @@ window.CHAPTERS = [
   href: 'chapters/chapter-322.html',
   status: 'Read chapter'
 }
+];
