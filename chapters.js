@@ -106,5 +106,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Khan', 'Varkas', 'Escape'],
   href: 'chapters/chapter-322.html',
   status: 'Read chapter'
+},
+{
+  number: 323,
+  title: 'Chapter 323',
+  description: 'Talia chooses to return to Raedgo Castle, but an unexpected encounter with Lucas awaits her.',
+  tags: ['Talia', 'Khan', 'Lucas', 'Raedgo Castle'],
+  href: 'chapters/chapter-323.html',
+  status: 'Read chapter'
 }
 ];
