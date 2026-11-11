@@ -83,6 +83,14 @@ window.CHAPTERS = [
   href: 'chapters/chapter-63.html',
   status: 'Read chapter'
 },
+{
+  number: 64,
+  title: 'Chapter 64',
+  description: 'Talia reveals her painful reason for marrying Varkas, while Edric learns a shocking secret about the wyvern attack.',
+  tags: ['Talia', 'Varkas', 'Edric', 'Theoric', 'Empress'],
+  href: 'chapters/chapter-64.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
