@@ -91,6 +91,14 @@ window.CHAPTERS = [
   href: 'chapters/chapter-64.html',
   status: 'Read chapter'
 },
+{
+  number: 65,
+  title: 'Chapter 65',
+  description: 'Edric struggles to leave Talia behind as preparations begin for her wedding to Varkas.',
+  tags: ['Talia', 'Varkas', 'Edric', 'Theoric', 'Wedding'],
+  href: 'chapters/chapter-65.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
