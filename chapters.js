@@ -130,5 +130,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Lucas', 'Khan', 'Varkas'],
   href: 'chapters/chapter-324.html',
   status: 'Read chapter'
+},
+{
+  number: 325,
+  title: 'Chapter 325',
+  description: 'Varkas vows to protect Talia at any cost, even if it means suppressing his jealousy of Lucas.',
+  tags: ['Talia', 'Varkas', 'Khan', 'Lucas', 'Regret'],
+  href: 'chapters/chapter-325.html',
+  status: 'Read chapter'
 }
 ];
