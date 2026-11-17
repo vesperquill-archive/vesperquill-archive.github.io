@@ -138,5 +138,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Varkas', 'Khan', 'Lucas', 'Regret'],
   href: 'chapters/chapter-325.html',
   status: 'Read chapter'
+},
+{
+  number: 326,
+  title: 'Chapter 326',
+  description: 'Lucas playfully teases Talia during their outing, then seeks refuge in her room to avoid his guests.',
+  tags: ['Talia', 'Lucas', 'Khan', 'Raedgo Castle'],
+  href: 'chapters/chapter-326.html',
+  status: 'Read chapter'
 }
 ];
