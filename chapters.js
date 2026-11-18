@@ -170,5 +170,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Lucas', 'Khan', 'Raedgo Castle'],
   href: 'chapters/chapter-326.html',
   status: 'Read chapter'
+},
+{
+  number: 327,
+  title: 'Chapter 327',
+  description: 'Lucas avoids his engagement guests, notices Khan’s resemblance to Varkas, and questions Talia about her past deeds.',
+  tags: ['Talia', 'Lucas', 'Khan', 'Varkas', 'Raedgo Castle'],
+  href: 'chapters/chapter-327.html',
+  status: 'Read chapter'
 }
 ];
