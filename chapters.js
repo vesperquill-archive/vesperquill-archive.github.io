@@ -107,6 +107,14 @@ window.CHAPTERS = [
   href: 'chapters/chapter-66.html',
   status: 'Read chapter'
 },
+{
+  number: 67,
+  title: 'Chapter 67',
+  description: 'As the wedding ceremony begins, Gareth confronts Talia while Varkas shields her from his cruel remarks.',
+  tags: ['Talia', 'Varkas', 'Gareth', 'Wedding'],
+  href: 'chapters/chapter-67.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
