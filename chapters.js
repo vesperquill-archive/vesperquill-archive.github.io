@@ -98,6 +98,14 @@ window.CHAPTERS = [
   tags: ['Talia', 'Varkas', 'Edric', 'Theoric', 'Wedding'],
   href: 'chapters/chapter-65.html',
   status: 'Read chapter'
+},  
+{
+  number: 66,
+  title: 'Chapter 66',
+  description: 'As Talia fears being abandoned at the altar, Varkas returns to lead her toward their wedding.',
+  tags: ['Talia', 'Varkas', 'Wedding', 'Cathedral'],
+  href: 'chapters/chapter-66.html',
+  status: 'Read chapter'
 },
   {
   number: 321,
