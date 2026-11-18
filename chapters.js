@@ -115,6 +115,14 @@ window.CHAPTERS = [
   href: 'chapters/chapter-67.html',
   status: 'Read chapter'
 },
+{
+  number: 68,
+  title: 'Chapter 68',
+  description: 'After their wedding, Talia leaves the palace with Varkas and overhears a revealing conversation about the First Princess.',
+  tags: ['Talia', 'Varkas', 'Wedding', 'Ayla'],
+  href: 'chapters/chapter-68.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
