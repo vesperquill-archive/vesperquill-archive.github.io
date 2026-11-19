@@ -178,5 +178,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Lucas', 'Khan', 'Varkas', 'Raedgo Castle'],
   href: 'chapters/chapter-327.html',
   status: 'Read chapter'
+},
+{
+  number: 328,
+  title: 'Chapter 328',
+  description: 'Talia rejects Lucas’s questions about her feelings for Varkas, while Lucas continues to show his affection through small gifts.',
+  tags: ['Talia', 'Lucas', 'Khan', 'Varkas', 'Romance'],
+  href: 'chapters/chapter-328.html',
+  status: 'Read chapter'
 }
 ];
