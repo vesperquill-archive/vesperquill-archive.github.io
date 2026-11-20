@@ -186,5 +186,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Lucas', 'Khan', 'Varkas', 'Romance'],
   href: 'chapters/chapter-328.html',
   status: 'Read chapter'
+},
+{
+  number: 329,
+  title: 'Chapter 329',
+  description: 'Talia firmly rejects Lucas’s feelings, but an unexpected encounter in the garden takes a troubling turn.',
+  tags: ['Talia', 'Lucas', 'Khan', 'Raedgo Castle'],
+  href: 'chapters/chapter-329.html',
+  status: 'Read chapter'
 }
 ];
