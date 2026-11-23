@@ -122,6 +122,14 @@ window.CHAPTERS = [
   tags: ['Talia', 'Varkas', 'Wedding', 'Ayla'],
   href: 'chapters/chapter-68.html',
   status: 'Read chapter'
+}, 
+{
+  number: 69,
+  title: 'Chapter 69',
+  description: 'On their wedding night, Talia struggles with her fears while Varkas tries to make her comfortable in their shared chamber.',
+  tags: ['Talia', 'Varkas', 'Wedding Night', 'Sierkhan'],
+  href: 'chapters/chapter-69.html',
+  status: 'Read chapter'
 },
   {
   number: 321,
