@@ -131,6 +131,14 @@ window.CHAPTERS = [
   href: 'chapters/chapter-69.html',
   status: 'Read chapter'
 },
+{
+  number: 70,
+  title: 'Chapter 70',
+  description: 'Talia suffers a painful attack during the night, and Varkas summons a healer to help her.',
+  tags: ['Talia', 'Varkas', 'Wedding Night', 'Healer'],
+  href: 'chapters/chapter-70.html',
+  status: 'Read chapter'
+},
   {
   number: 321,
   title: 'Chapter 321',
