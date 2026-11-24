@@ -210,5 +210,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Lucas', 'Khan', 'Raedgo Castle'],
   href: 'chapters/chapter-329.html',
   status: 'Read chapter'
+},
+{
+  number: 330,
+  title: 'Chapter 330',
+  description: 'Khan intervenes when Lucas forces himself upon Talia. With soldiers pursuing them, Talia desperately tries to save Khan by driving him away.',
+  tags: ['Talia', 'Lucas', 'Khan', 'Varkas', 'Armund Forest'],
+  href: 'chapters/chapter-330.html',
+  status: 'Read chapter'
 }
 ];
