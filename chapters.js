@@ -218,5 +218,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Lucas', 'Khan', 'Varkas', 'Armund Forest'],
   href: 'chapters/chapter-330.html',
   status: 'Read chapter'
+},
+{
+  number: 331,
+  title: 'Chapter 331',
+  description: 'Talia is taken back to the castle while Khan struggles with despair, only to find himself hunted by Varkas Raedgo Sierkhan.',
+  tags: ['Talia', 'Khan', 'Varkas', 'Raedgo Castle', 'Armund Forest'],
+  href: 'chapters/chapter-331.html',
+  status: 'Read chapter'
 }
 ];
