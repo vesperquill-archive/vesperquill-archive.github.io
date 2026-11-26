@@ -226,5 +226,13 @@ window.CHAPTERS = [
   tags: ['Talia', 'Khan', 'Varkas', 'Raedgo Castle', 'Armund Forest'],
   href: 'chapters/chapter-331.html',
   status: 'Read chapter'
+},
+{
+  number: 332,
+  title: 'Chapter 332',
+  description: 'Khan narrowly survives his encounter with Varkas as a mysterious power awakens within him. He later regains consciousness in the winter forest.',
+  tags: ['Khan', 'Varkas', 'Talia', 'Direwolves', 'Armund Forest'],
+  href: 'chapters/chapter-332.html',
+  status: 'Read chapter'
 }
 ];
