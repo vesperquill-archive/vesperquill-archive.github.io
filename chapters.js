@@ -234,5 +234,13 @@ window.CHAPTERS = [
   tags: ['Khan', 'Varkas', 'Talia', 'Direwolves', 'Armund Forest'],
   href: 'chapters/chapter-332.html',
   status: 'Read chapter'
+},
+{
+  number: 333,
+  title: 'Chapter 333',
+  description: 'Khan discovers his newfound ability to control magical beasts and share their vision. Desperate to find Talia, he uses a bird to investigate Raedgo Castle.',
+  tags: ['Khan', 'Varkas', 'Talia', 'Edric', 'Raedgo Castle'],
+  href: 'chapters/chapter-333.html',
+  status: 'Read chapter'
 }
 ];
